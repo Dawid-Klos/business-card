@@ -7,3 +7,37 @@ html {
 *:before {
   box-sizing: inherit;
 }
+
+body {
+  background: #2C2141;
+}
+
+.bussines-card {
+
+}
+
+.bussines-card__avatar {
+
+}
+
+.bussines-card__header {
+
+}
+
+.bussines-card__name {
+
+}
+
+.bussines-card__position {
+
+}
+
+.bussines-card__description {
+
+}
+
+
+
+.main {
+
+}
