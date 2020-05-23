@@ -15,6 +15,7 @@ a {
 
 body {
   background: #2C2141;
+  font-family: Arial, Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,11 +23,13 @@ body {
 }
 
 .bussines-card {
-
+  display: flex;
 }
 
 .bussines-card__avatar {
-
+  margin-right: 32px;
+  width: 148px;
+  height: 148px;
 }
 
 .bussines-card__header {
@@ -34,7 +37,6 @@ body {
 }
 
 .bussines-card__name {
-  font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 36px;
   margin: 0;
@@ -42,18 +44,15 @@ body {
 }
 
 .bussines-card__position {
-  font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
   font-size: 16px;
   margin: 0;
+  margin-bottom: 24px;
 }
 
 .bussines-card__description {
-
-}
-
-.container {
-  
+  font-size: 16px;
+  font-weight: normal;
 }
 
 .special {
