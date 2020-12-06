@@ -1,4 +1,4 @@
-![cover](https://github.com/Dawid-Klos/business-card/blob/master/cover1.png)
+![cover](https://github.com/Dawid-Klos/business-card/blob/master/cover.png)
 
 # Bussines-card
 
