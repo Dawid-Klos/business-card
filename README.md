@@ -2,6 +2,6 @@
 
 # Bussines-card
 
-The business-card project has been done during the course WTF: Co ten Frontend? as a part of the practice.
+The business-card project has been done during the [WTF: Co ten Frontend?](https://www.cotenfrontend.pl/) course as a part of the practice.
 
 [Live](https://dawid-klos.github.io/business-card/)
